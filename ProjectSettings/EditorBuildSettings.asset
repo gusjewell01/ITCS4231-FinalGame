@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/A.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/shark/Scenes/attack demo.unity
+    guid: 3b0726c86cbbf3a4880b0f20f98e7782
+  - enabled: 1
+    path: Assets/Scenes/A 1.unity
+    guid: 24febeebae81fac4a966a5375bf73f82
+  - enabled: 1
+    path: Assets/tombs/Pyramid.unity
+    guid: afdf991e819284b408e45adac4f37fa2
+  - enabled: 1
+    path: Assets/tombs/Tomb.unity
+    guid: 29e9c5d5ae9af3b45bd6d1e30bd6a710
+  - enabled: 1
+    path: Assets/Scenes/A 2.unity
+    guid: 9d371210f4898ed4f83c6be783b4364f
+  - enabled: 1
+    path: Assets/castle/Demo Scenes/Castle Compound.unity
+    guid: d00e443c4915bc84ab46b4b6f24c59d5
+  - enabled: 1
+    path: Assets/Scenes/A 3.unity
+    guid: e264e34825cb4b5419c1df67744010ee
+  - enabled: 1
+    path: Assets/paintings/_ShowRoom_Vol 11/Scenes/SampleScene.unity
+    guid: fc63c1d3cf90ee94abacd43543e4a39f
+  - enabled: 1
+    path: Assets/Scenes/A 4.unity
+    guid: 37631d3711da6004b886ed1d27537532
+  - enabled: 1
+    path: Assets/trenches/Demo Scenes/Trenches.unity
+    guid: 5605a42979d5421409837c9b32441428
+  - enabled: 1
+    path: Assets/Scenes/A 5.unity
+    guid: 61e73da0f28ca5c4fa636bcdb4437947
+  - enabled: 1
+    path: Assets/city/city_night.unity
+    guid: 821951d7326406540bc6a309dcb30ca6
+  - enabled: 1
+    path: Assets/Scenes/A 6.unity
+    guid: 904bbdde59ec359408f16ae824e7d679
+  - enabled: 1
+    path: Assets/earth/Test.unity
+    guid: 0d2cfdefaae8a0f4bab78c2b43538d48
+  m_configObjects: {}
